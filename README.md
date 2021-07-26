@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aspashaday
+- 👋 Hi, I’m @aspasha
 - 👀 I’m interested in learning Terraform for Azure and AWS
 - 🌱 I’m currently learning Terraform for Azure and AWS together
 - 💞️ I’m looking to collaborate on Terraform
